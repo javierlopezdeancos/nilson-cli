@@ -7,6 +7,6 @@ import (
 )
 
 func addChampionship(c *cli.Context) error {
-	fmt.Printf("Runned: chamiponship:add")
+	fmt.Println("Runned: chamiponship:add")
 	return nil
 }
