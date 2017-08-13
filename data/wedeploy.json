@@ -1,0 +1,5 @@
+{
+  "id": "data",
+  "image": "wedeploy/data:0.0.1",
+  "volume": "/opt/storage"
+}

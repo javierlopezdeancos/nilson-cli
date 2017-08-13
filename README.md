@@ -17,6 +17,7 @@ https://golang.org/doc/install#install
 ## Dependencies
 
     go get github.com/urfave/cli
+    go get github.com/google/uuid
 
 ## Installation
 

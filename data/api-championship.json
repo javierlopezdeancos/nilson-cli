@@ -1,0 +1,18 @@
+[
+  {
+    "path": "/championships/*",
+    "data": true
+  },
+  {
+    "path": "/teams/*",
+    "data": true
+  },
+  {
+    "path": "/matches/*",
+    "data": true
+  },
+  {
+    "path": "/players/*",
+    "data": true
+  }
+]
